@@ -4,13 +4,13 @@
     margin: 5px;
     padding: 0;
     box-sizing: border-box;
-    list-style: inside;
+    list-style: square;
     font-family: 'Zilla Slab', serif;
 
 
 }
 body {
-    background: #51c4d3;
+    background: #808686;
     font-size: 18px;
     list-style: 20px;
     color: solid black;
